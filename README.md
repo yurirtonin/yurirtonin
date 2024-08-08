@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on computational science, more specifically, algorithms for X-Ray imaging reconstruction!
 - 📫 How to reach me: yurirt94@gmail.com or https://www.linkedin.com/in/yuri-rossi-tonin/ 
-
+- 🌱 Here is my personal webpage: https://yurirtonin.github.io/ 
 
 <!--
 **yurirtonin/yurirtonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
