@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Yuri!
 
 - 🔭 I’m currently working on computational science, more specifically, algorithms for X-Ray imaging reconstruction!
-- 📫 How to reach me: yurirt94@gmail.com or https://www.linkedin.com/in/yuri-rossi-tonin/ 
+- 📫 How to reach me: yrtonin@gmail.com or https://www.linkedin.com/in/yuri-rossi-tonin/ 
 - 🌱 Here is my personal webpage: https://yurirtonin.github.io/ 
 
 <!--
